@@ -12,7 +12,7 @@ int main() {
     while (t--) {
         int n, m, k, H;
         cin >> n >> m >> k >> H;
-        vector<int> h(n);c
+        vector<int> h(n);
         vector<int> vec;
         vec.push_back(1);
         vec.push_back(2);
